@@ -1,1 +1,1 @@
-# awj
+Logarithmic Gray Level Transformation
